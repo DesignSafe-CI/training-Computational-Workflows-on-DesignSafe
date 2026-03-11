@@ -19,7 +19,7 @@ Each document approaches the platform from a different angle — from conceptual
 
 :::{grid-item-card}
 :class-header: bg-light text-center
-<a href="https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html" target="_blank" rel="noopener">
+<a href="./Computational-Workflows-on-DesignSafe" target="_blank" rel="noopener">
 Computational Workflows on DesignSafe
 </a>
 ^^^
@@ -29,7 +29,7 @@ This document introduces the *core workflow architecture of DesignSafe*, explain
 
 :::{grid-item-card}
 :class-header: bg-light text-center
-<a href="https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html" target="_blank" rel="noopener">
+<a href="./Computational-Resources-on-DesignSafe" target="_blank" rel="noopener">
 Computational Resources on DesignSafe
 </a>
 ^^^
@@ -39,7 +39,7 @@ This document focuses on the *compute environments available on DesignSafe*, cla
 
 :::{grid-item-card}
 :class-header: bg-light text-center
-<a href="https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html" target="_blank" rel="noopener">
+<a href="./OpenSees-on-DesignSafe" target="_blank" rel="noopener">
 OpenSees-on-DesignSafe Training
 </a>
 ^^^
@@ -49,7 +49,7 @@ This document uses *OpenSees* as a concrete example of a *scalable scientific wo
 
 :::{grid-item-card}
 :class-header: bg-light text-center
-<a href="https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html" target="_blank" rel="noopener">
+<a href="./OpsUtils-Python-Utilities-on-DesignSafe" target="_blank" rel="noopener">
 OpsUtils Python Utilities
 </a>
 ^^^
