@@ -77,9 +77,9 @@ TOC_GEN="__generate_md_toc.py"
 
 SHARED_STATIC_DIR="shared/_static"
 
-# ---------- Repo/Pages settings (edit once) ----------
-REPO_URL="https://github.com/<YOURUSER>/<YOURREPO>"
-BASE_PAGES_URL="https://<YOURUSER>.github.io/<YOURREPO>"
+# ---------- Repo/Pages settings (edit once, or set in env e.g. CI) ----------
+REPO_URL="${REPO_URL:-https://github.com/<YOURUSER>/<YOURREPO>}"
+BASE_PAGES_URL="${BASE_PAGES_URL:-https://<YOURUSER>.github.io/<YOURREPO>}"
 
 # ---------- Per-book titles (edit as needed) ----------
 declare -A TITLES=(
