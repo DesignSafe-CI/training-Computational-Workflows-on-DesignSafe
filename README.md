@@ -2,8 +2,8 @@
 ***A Series of Documents dedicated to Understanding Interfaces, Middleware, and Execution Environments***
 
 
-by **Silvia Mazzoni**<br>
-January 2026
+by **Silvia Mazzoni**, PhD<br>
+February 2026
 
 ---
 
