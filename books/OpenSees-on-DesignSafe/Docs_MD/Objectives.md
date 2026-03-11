@@ -90,7 +90,7 @@ On September 17, 2025 we held a webinar introducing this training document. This
 
 <div id="slideShow_WebinarSlides">
 <script>
-    addSlides("slideShow_WebinarSlides","../../../shared/images/Webinar/WebinarSlides/Slide","JPG",1,29)
+    addSlides("slideShow_WebinarSlides","../shared/images/Webinar/WebinarSlides/Slide","JPG",1,29)
 </script>
 
 :::
