@@ -43,6 +43,6 @@ Click Submit Job
 
 <div id="slideShow">
 <script>
-    addSlides("slideShow","../_static/_images/WebPortal_MP/Slide","JPG",1,9)
+    addSlides("slideShow","../../../shared/imagesWebPortal_MP/Slide","JPG",1,9)
 </script>
 

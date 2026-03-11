@@ -53,6 +53,6 @@ Look for errors in the echo data or for the exit code.
 
 <div id="slideShow">
 <script>
-    addSlides("slideShow","../_static/_images/WebPortal_Express/Slide","JPG",10,25)
+    addSlides("slideShow","../../../shared/imagesWebPortal_Express/Slide","JPG",10,25)
 </script>
 

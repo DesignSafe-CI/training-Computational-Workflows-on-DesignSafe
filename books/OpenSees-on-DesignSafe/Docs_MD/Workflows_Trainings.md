@@ -19,7 +19,7 @@ DesignSafe provides multiple computational pathways for running OpenSees analyse
 
 These methods are shown in the diagram below.
 
-<img src="../_static/_images/WaysToRunOps/WaysToRunOpenSeesOnDS_all.jpg" alt="Workflows for OpenSees on DesignSafe" width="75%" />
+<img src="../../../shared/imagesWaysToRunOps/WaysToRunOpenSeesOnDS_all.jpg" alt="Workflows for OpenSees on DesignSafe" width="75%" />
 
 
 These three modules illustrate that there is **no one-size-fits-all approach**. DesignSafe provides both scalable and adaptable computational environments, meaning that the “best” method depends on the type of analysis, the size of the problem, and your workflow needs. Importantly, scaling on HPC is not simply a matter of adding more nodes — some analyses benefit from massive parallelism, while others require high memory per node or GPU acceleration.
