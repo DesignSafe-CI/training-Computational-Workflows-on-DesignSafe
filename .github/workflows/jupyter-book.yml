@@ -4,3 +4,9 @@ on:
   push:
     branches: [ main ]
   workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "No operation. See DesignSafe-CI/training-Computational-Workflows-on-DesignSafe#1"
