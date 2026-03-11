@@ -1,12 +1,71 @@
-name: Build & Deploy Jupyter Book (Incomplete)
+name: Build & Deploy Jupyter Book
 
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+env:
+  REPO_URL: https://github.com/DesignSafe-CI/training-Computational-Workflows-on-DesignSafe
+  # So each book is available at BASE_PAGES_URL/eachBook/
+  BASE_PAGES_URL: https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe
+
 jobs:
-  noop:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "No operation. See DesignSafe-CI/training-Computational-Workflows-on-DesignSafe#1"
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Jupyter Book
+        # The `run:` command will:
+        # * Always use latest pip
+        # * Install classic 0.x Jupyter stack (matches ___build_all_books.sh)
+        # * Provide sphinx_last_updated_by_git (` || true` ignores failure)
+        run: |
+          python -m pip install --upgrade pip
+          pip install "jupyter-book<1"
+          pip install sphinx-last-updated-by-git || true
+
+      - name: Build all books
+        run: ./___build_all_books.sh --gen-md-toc --skip=ROOT
+
+      - name: Assemble artifact (Compile all books)
+        run: |
+          mkdir -p _build/html
+          for book in books/*/; do
+            [ -d "$book" ] || continue
+            name=$(basename "$book")
+            [ -d "$book/_build/html" ] || continue
+            cp -a "$book/_build/html" "_build/html/$name"
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_build/html
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
