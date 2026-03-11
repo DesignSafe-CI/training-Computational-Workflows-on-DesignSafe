@@ -65,7 +65,7 @@ You can now enter your commands at the prompt, one at a time, as shown below:
 
 <div id="slideShowTCL">
 <script>
-    addSlides("slideShowTCL","../../../shared/imagesInteractive_Tcl/Slide","JPG",1,7)
+    addSlides("slideShowTCL","../../../shared/images/Interactive_Tcl/Slide","JPG",1,7)
 </script>
 
 
@@ -91,6 +91,6 @@ You can now enter your commands at the prompt, one at a time, as shown below. Yo
 
 <div id="slideShowPY">
 <script>
-    addSlides("slideShowPY","../../../shared/imagesInteractive_Py/Slide","JPG",1,8)
+    addSlides("slideShowPY","../../../shared/images/Interactive_Py/Slide","JPG",1,8)
 </script>
 

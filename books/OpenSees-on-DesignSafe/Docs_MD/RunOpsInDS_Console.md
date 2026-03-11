@@ -18,7 +18,7 @@ This is especially useful if you've developed your script in another environment
 
 <div id="slideShowInter">
 <script>
-    addSlides("slideShowInter","../../../shared/imagesInteractive_PyConsole/Slide","JPG",1,9)
+    addSlides("slideShowInter","../../../shared/images/Interactive_PyConsole/Slide","JPG",1,9)
 </script>
 
 
@@ -28,5 +28,5 @@ This is especially useful if you've developed your script in another environment
 
 <div id="slideShowScript">
 <script>
-    addSlides("slideShowScript","../../../shared/imagesPyConsole/Slide","JPG",1,7)
+    addSlides("slideShowScript","../../../shared/images/PyConsole/Slide","JPG",1,7)
 </script>

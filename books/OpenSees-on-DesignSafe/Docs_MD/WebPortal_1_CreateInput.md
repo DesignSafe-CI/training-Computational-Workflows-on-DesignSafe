@@ -24,7 +24,7 @@ Remember the location of your file.
 
 <div id="slideShow">
 <script>
-    addSlides("slideShow","../../../shared/imagesCreateInput/Slide","JPG",1,10)
+    addSlides("slideShow","../../../shared/images/CreateInput/Slide","JPG",1,10)
 </script>
 
 
