@@ -1,0 +1,6 @@
+../static/_images/
+
+
+with
+
+../../../shared/images
