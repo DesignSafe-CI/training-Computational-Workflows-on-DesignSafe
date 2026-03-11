@@ -82,9 +82,10 @@ pre {
 /* Normal cards */
 .sd-card > .sd-card-header {
   background-color: #e9e9e9 !important;
-  font-size: 1.25rem !important;
-  font-weight: 700 !important;
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
   border-color: blue !important;
+    padding: 0
 }
 
 /* Dropdown header (summary) */
