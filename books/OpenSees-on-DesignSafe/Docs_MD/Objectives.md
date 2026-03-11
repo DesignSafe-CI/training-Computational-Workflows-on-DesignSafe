@@ -84,7 +84,7 @@ Most importantly, readers should understand not just how to run OpenSees on Desi
 
 On September 17, 2025 we held a webinar introducing this training document. This webinar introduced DesignSafe as a unified platform for advancing natural hazards research, offering integrated tools for data management, interactive modeling, and high-performance computing. Using OpenSees as the primary case study, participants explored how to design and scale computational workflows — from small exploratory runs to automated HPC pipelines. The session emphasized the complete scientific workflow lifecycle, including model setup, job submission, monitoring, and results management. While focused on earthquake engineering, the strategies presented are broadly transferable to other domains such as CFD, climate modeling, and structural simulation.
 
-[Click here](https://youtu.be/hexvyWy6G20?si=bo-n58AZ3loR0VuF) to access to the recording.
+[Access the recording of this webinar.](https://youtu.be/hexvyWy6G20?si=bo-n58AZ3loR0VuF)
 
 :::{dropdown} Presentation Slides
 

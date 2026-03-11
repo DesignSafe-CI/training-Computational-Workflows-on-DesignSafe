@@ -96,7 +96,7 @@ def get_heading_from_file(file_path,link_path):
             # new_text += '\n'
             # new_text += '<br>\n'
             # new_text += '\n'
-            # new_text += 'This notebook is part of the **OpenSees-On-DesignSafe Training Module** -- [CLICK HERE to access the Module](https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html)'
+            # new_text += 'This notebook is part of the [**OpenSees-On-DesignSafe Training Module**](https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html)'
             replace_first_markdown(file_path, new_text)
         return get_heading_from_notebook(file_path)
     else:
@@ -164,7 +164,7 @@ def replace_cell_by_index(notebook_path, cell_index, new_text):
 
 
 def add_intro_markdown(notebook_path,cellIndexIN):
-    intro_text = "This notebook is part of the OpenSees-On-DesignSafe Training Module [CLICK HERE to access the Module](https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html)"
+    intro_text = "This notebook is part of the [**OpenSees-On-DesignSafe Training Module**](https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html)"
 
     try:
         # Load notebook
