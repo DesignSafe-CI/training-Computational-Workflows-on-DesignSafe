@@ -15,6 +15,7 @@ parts:
       - file: Docs_MD/About.md
       - file: Docs_MD/Prerequisites.md
       - file: Docs_MD/TrainingMaterial.md
+      - file: Docs_MD/Webinar2025.md
     - file: Docs_MD/DocSeries.md
       title: Document Series
 
