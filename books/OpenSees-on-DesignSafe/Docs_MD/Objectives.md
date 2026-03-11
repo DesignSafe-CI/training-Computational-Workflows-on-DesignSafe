@@ -65,7 +65,7 @@ These training sections reinforce the architectural explanations and provide pra
 
 ---
 
-# Outcome for the Reader
+## Outcome for the Reader
 
 By the end of this document, readers should be able to:
 

@@ -50,7 +50,7 @@ Select the tapisjob.out file.
 
 <div id="slideShow">
 <script>
-    addSlides("slideShow","../../../shared/imagesWebPortal_MP/Slide","JPG",10,23)
+    addSlides("slideShow","../../../shared/images/WebPortal_MP/Slide","JPG",10,23)
 </script>
 
 

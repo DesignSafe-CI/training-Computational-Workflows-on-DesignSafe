@@ -52,7 +52,7 @@ Access the terminal through the **Jupyter interface** by clicking “New > Termi
 
 <div id="slideShow">
 <script>
-    addSlides("slideShow","../../../shared/imagesTerminalRun/Slide","JPG",1,4)
+    addSlides("slideShow","../../../shared/images/TerminalRun/Slide","JPG",1,4)
 </script>
 
 

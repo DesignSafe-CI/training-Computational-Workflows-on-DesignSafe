@@ -48,7 +48,7 @@ REQUIRE_SOMETHING_TO_DO = True
 REPLACE_PAIRS = [
     # ("old", "new"),
     # ("../../shared/../Examples", "../../../shared/Examples"),
-    ('../_static/_images/','../../../shared/images'),
+    ('"../../../shared/images','"../../../shared/images/'),
 ]
 
 # =========================

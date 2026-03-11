@@ -14,7 +14,7 @@ The following images show how to run OpenSees Tcl and OpenSeesPy at the terminal
 
 <div id="slideShow">
 <script>
-    addSlides("slideShow","../../../shared/imagesTerminalRun/Slide","JPG",4,13)
+    addSlides("slideShow","../../../shared/images/TerminalRun/Slide","JPG",4,13)
 </script>
 
 ## **Sequential Execution**
