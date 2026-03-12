@@ -1,4 +1,4 @@
-# Computate Resources on DesignSafe
+# Compute Resources on DesignSafe
 ***Execution Systems and Data Environments***
 
 by **Silvia Mazzoni**<br>
