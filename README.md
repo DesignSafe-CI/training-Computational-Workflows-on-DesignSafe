@@ -14,48 +14,65 @@ Each document approaches the platform from a different angle — from conceptual
 
 ---
 
-::::{grid} 1 1 1 1
+::::{grid} 1 2 2 2
 :gutter: 3
 
 :::{grid-item-card}
-:class-header: bg-light text-center
+:class-card: homepage-card
+:class-header: homepage-card-header text-center
 <a href="./Computational-Workflows-on-DesignSafe" target="_blank" rel="noopener">
 Computational Workflows on DesignSafe
 </a>
 ^^^
-***Platform Architecture & Workflow Concepts***<br>
+***Platform Architecture & Workflow Concepts***
+
+```{dropdown} Overview
 This document introduces the *core workflow architecture of DesignSafe*, explaining how *interface environments* (web portal, JupyterHub, APIs), *middleware services*, *execution environments* (HPC systems and compute nodes), and *file storage systems* interact to support scalable and reliable computational research.
+```
 :::
 
 :::{grid-item-card}
-:class-header: bg-light text-center
+:class-card: homepage-card
+:class-header: homepage-card-header text-center
 <a href="./Computational-Resources-on-DesignSafe" target="_blank" rel="noopener">
 Computational Resources on DesignSafe
 </a>
 ^^^
-***Where and How Computation Runs***<br>
+***Where and How Computation Runs***
+
+```{dropdown} Overview
 This document focuses on the *compute environments available on DesignSafe*, clarifying where analyses actually execute, how resources are allocated, and how users move between interactive and batch workflows. It emphasizes practical distinctions between login, execution, and storage systems, and how those distinctions affect performance and usability.
+```
 :::
 
 :::{grid-item-card}
-:class-header: bg-light text-center
+:class-card: homepage-card
+:class-header: homepage-card-header text-center
 <a href="./OpenSees-on-DesignSafe" target="_blank" rel="noopener">
 OpenSees-on-DesignSafe Training
 </a>
 ^^^
-***OpenSees as a Workflow Case Study***<br>
+***OpenSees as a Workflow Case Study***
+
+```{dropdown} Overview
 This document uses *OpenSees* as a concrete example of a *scalable scientific workflow* on DesignSafe — covering scripting, parameter studies, parallel execution, job submission, and results management. While OpenSees is the focus, the workflow patterns apply broadly to many computational applications.
+```
 :::
 
 :::{grid-item-card}
-:class-header: bg-light text-center
+:class-card: homepage-card
+:class-header: homepage-card-header text-center
 <a href="./OpsUtils-Python-Utilities-on-DesignSafe" target="_blank" rel="noopener">
 OpsUtils Python Utilities
 </a>
 ^^^
-***Reusable Python Tools for Workflows***<br>
+***Reusable Python Tools for Workflows***
+
+```{dropdown} Overview
 A custom Python utility library designed to support common workflow tasks on DesignSafe, including *job submission and monitoring, file and path management, data inspection, and automation*. These utilities encapsulate best practices and reduce boilerplate when building repeatable computational workflows.
+```
 :::
+
 ::::
 
 
