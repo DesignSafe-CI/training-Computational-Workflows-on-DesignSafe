@@ -78,11 +78,22 @@ The Command-Line Interface (CLI) at the Terminal is a fast, powerful, and flexib
 
 ## Demo Figures
 
+<div style="display:flex; gap:16px; overflow-x:auto; scroll-snap-type:x mandatory; padding:8px 0;">
 
-    <img src="../_images/TerminalRun/Slide1.JPG" alt="Slide 1" style="width:100%; border-radius:8px;">
-<hr>
-    <img src="../_images/TerminalRun/Slide2.JPG" alt="Slide 2" style="width:100%; border-radius:8px;">
-<hr>
-    <img src="../_images/TerminalRun/Slide3.JPG" alt="Slide 3" style="width:100%; border-radius:8px;">
-<hr>
-    <img src="../_images/images/TerminalRun/Slide4.JPG" alt="Slide 4" style="width:100%; border-radius:8px;">
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide1.JPG" alt="Slide 1" style="width:100%; border-radius:8px;">
+  </div>
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide2.JPG" alt="Slide 2" style="width:100%; border-radius:8px;">
+  </div>
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide3.JPG" alt="Slide 3" style="width:100%; border-radius:8px;">
+  </div>
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/images/TerminalRun/Slide4.JPG" alt="Slide 4" style="width:100%; border-radius:8px;">
+  </div>
+
+</div>
