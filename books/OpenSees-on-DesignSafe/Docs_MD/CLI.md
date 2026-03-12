@@ -50,31 +50,6 @@ Becoming familiar with how to open and use a terminal is the first step to unloc
 
 Access the terminal through the **Jupyter interface** by clicking “New > Terminal” in the Jupyter file browser or clicking the Terminal icon in the Launcher.
 
-:::{dropdown} Demo Slides
-
-<div style="display:flex; gap:16px; overflow-x:auto; scroll-snap-type:x mandatory; padding:8px 0;">
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide1.JPG" alt="Slide 1" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide2.JPG" alt="Slide 2" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide3.JPG" alt="Slide 3" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide4.JPG" alt="Slide 4" style="width:100%; border-radius:8px;">
-  </div>
-
-</div>
-
-
-:::
-
 
 
 ## Basic Linux Commands
@@ -100,26 +75,14 @@ wc –l filename         : how many lines in a file
 The Command-Line Interface (CLI) at the Terminal is a fast, powerful, and flexible way to use OpenSees and other scientific tools. It’s especially helpful in high-performance computing (HPC) environments where speed, automation, and control are essential.
 
 
-## Demo Slides
 
-<div style="display:flex; gap:16px; overflow-x:auto; scroll-snap-type:x mandatory; padding:8px 0;">
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide1.JPG" alt="Slide 1" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide2.JPG" alt="Slide 2" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide3.JPG" alt="Slide 3" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
-    <img src="../../../shared/images/TerminalRun/Slide4.JPG" alt="Slide 4" style="width:100%; border-radius:8px;">
-  </div>
-
-</div>
+## Demo Figures
 
 
+    <img src="../_images/TerminalRun/Slide1.JPG" alt="Slide 1" style="width:100%; border-radius:8px;">
+<hr>
+    <img src="../_images/TerminalRun/Slide2.JPG" alt="Slide 2" style="width:100%; border-radius:8px;">
+<hr>
+    <img src="../_images/TerminalRun/Slide3.JPG" alt="Slide 3" style="width:100%; border-radius:8px;">
+<hr>
+    <img src="../_images/images/TerminalRun/Slide4.JPG" alt="Slide 4" style="width:100%; border-radius:8px;">
