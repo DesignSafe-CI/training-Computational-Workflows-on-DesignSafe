@@ -52,12 +52,26 @@ Access the terminal through the **Jupyter interface** by clicking “New > Termi
 
 :::{dropdown} Demo Slides
 
-<div class="slide-row">
-  <div><img src="../../../shared/images/TerminalRun/Slide1.JPG" alt="Slide 1"></div>
-  <div><img src="../../../shared/images/TerminalRun/Slide2.JPG" alt="Slide 2"></div>
-  <div><img src="../../../shared/images/TerminalRun/Slide3.JPG" alt="Slide 3"></div>
-  <div><img src="../../../shared/images/TerminalRun/Slide4.JPG" alt="Slide 4"></div>
+<div style="display:flex; gap:16px; overflow-x:auto; scroll-snap-type:x mandatory; padding:8px 0;">
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide1.JPG" alt="Slide 1" style="width:100%; border-radius:8px;">
+  </div>
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide2.JPG" alt="Slide 2" style="width:100%; border-radius:8px;">
+  </div>
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide3.JPG" alt="Slide 3" style="width:100%; border-radius:8px;">
+  </div>
+
+  <div style="flex:0 0 24%; min-width:250px; scroll-snap-align:start;">
+    <img src="../../../shared/images/TerminalRun/Slide4.JPG" alt="Slide 4" style="width:100%; border-radius:8px;">
+  </div>
+
 </div>
+
 
 :::
 
