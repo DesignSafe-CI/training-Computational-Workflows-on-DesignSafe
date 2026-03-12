@@ -12,10 +12,16 @@ This is your starting place. Develop your script for a few test cases.
 
 The following images show how to run OpenSees Tcl and OpenSeesPy at the terminal for both **sequential** and **parallel** analyses, for both Tcl and Python interpreters.
 
-<div id="slideShow">
-<script>
-    addSlides("slideShow","../../../shared/images/TerminalRun/Slide","JPG",4,13)
-</script>
+<img src="../../../shared/images/TerminalRun/Slide4.JPG" alt="TerminalRun Slide-4" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide5.JPG" alt="TerminalRun Slide-5" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide6.JPG" alt="TerminalRun Slide-6" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide7.JPG" alt="TerminalRun Slide-7" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide8.JPG" alt="TerminalRun Slide-8" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide9.JPG" alt="TerminalRun Slide-9" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide10.JPG" alt="TerminalRun Slide-10" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide11.JPG" alt="TerminalRun Slide-11" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide12.JPG" alt="TerminalRun Slide-12" width="45%" />
+<img src="../../../shared/images/TerminalRun/Slide13.JPG" alt="TerminalRun Slide-13" width="45%" />
 
 ## **Sequential Execution**
 
