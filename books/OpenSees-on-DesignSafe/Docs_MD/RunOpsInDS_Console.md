@@ -23,8 +23,7 @@ This is especially useful if you've developed your script in another environment
 <img src="../../../shared/images/Interactive_PyConsole/Slide5.JPG" alt="Interactive_PyConsole Slide-5" width="45%" />
 <img src="../../../shared/images/Interactive_PyConsole/Slide6.JPG" alt="Interactive_PyConsole Slide-6" width="45%" />
 <img src="../../../shared/images/Interactive_PyConsole/Slide7.JPG" alt="Interactive_PyConsole Slide-7" width="45%" />
-<img src="../../../shared/images/Interactive_PyConsole/Slide8.JPG" alt="Interactive_PyConsole Slide-8" width="45%" />
-<img src="../../../shared/images/Interactive_PyConsole/Slide9.JPG" alt="Interactive_PyConsole Slide-9" width="45%" />
+
 
 
 
