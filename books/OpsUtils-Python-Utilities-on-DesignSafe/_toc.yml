@@ -74,7 +74,21 @@ parts:
   - caption: TOC 
     chapters:
     - file: generated_toc.md
+          
+  - caption: Document Series
+    chapters:
+    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+      title: Computational Workflows
+    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+      title: Compute Resources
+    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+      title: OpenSees on DesignSafe
+    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+      title: Python Utilities
+
+  - caption: DesignSafe
+    chapters:
     - url: https://designsafe-ci.org/
       title: DesignSafe Main Page
-          
+
 
