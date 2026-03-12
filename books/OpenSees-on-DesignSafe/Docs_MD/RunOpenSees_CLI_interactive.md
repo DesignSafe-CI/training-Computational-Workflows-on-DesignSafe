@@ -63,11 +63,13 @@ You can now enter your commands at the prompt, one at a time, as shown below:
     OpenSees > model BasicBuilder -ndm 2 -ndf 3
     OpenSees > exit
 
-<div id="slideShowTCL">
-<script>
-    addSlides("slideShowTCL","../../../shared/images/Interactive_Tcl/Slide","JPG",1,7)
-</script>
-
+<img src="../../../shared/images/Interactive_Tcl/Slide1.JPG" alt="Interactive_Tcl Slide-1" width="45%" />
+<img src="../../../shared/images/Interactive_Tcl/Slide2.JPG" alt="Interactive_Tcl Slide-2" width="45%" />
+<img src="../../../shared/images/Interactive_Tcl/Slide3.JPG" alt="Interactive_Tcl Slide-3" width="45%" />
+<img src="../../../shared/images/Interactive_Tcl/Slide4.JPG" alt="Interactive_Tcl Slide-4" width="45%" />
+<img src="../../../shared/images/Interactive_Tcl/Slide5.JPG" alt="Interactive_Tcl Slide-5" width="45%" />
+<img src="../../../shared/images/Interactive_Tcl/Slide6.JPG" alt="Interactive_Tcl Slide-6" width="45%" />
+<img src="../../../shared/images/Interactive_Tcl/Slide7.JPG" alt="Interactive_Tcl Slide-7" width="45%" />
 
 ## OpenSeesPy
 
@@ -89,8 +91,12 @@ You can now enter your commands at the prompt, one at a time, as shown below. Yo
     >>> exit()
     Process 0 Terminating
 
-<div id="slideShowPY">
-<script>
-    addSlides("slideShowPY","../../../shared/images/Interactive_Py/Slide","JPG",1,8)
-</script>
+<img src="../../../shared/images/Interactive_Py/Slide1.JPG" alt="Interactive_Py Slide-1" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide2.JPG" alt="Interactive_Py Slide-2" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide3.JPG" alt="Interactive_Py Slide-3" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide4.JPG" alt="Interactive_Py Slide-4" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide5.JPG" alt="Interactive_Py Slide-5" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide6.JPG" alt="Interactive_Py Slide-6" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide7.JPG" alt="Interactive_Py Slide-7" width="45%" />
+<img src="../../../shared/images/Interactive_Py/Slide8.JPG" alt="Interactive_Py Slide-8" width="45%" />
 
