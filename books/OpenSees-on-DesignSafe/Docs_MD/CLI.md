@@ -50,10 +50,16 @@ Becoming familiar with how to open and use a terminal is the first step to unloc
 
 Access the terminal through the **Jupyter interface** by clicking “New > Terminal” in the Jupyter file browser or clicking the Terminal icon in the Launcher.
 
-<div id="slideShow">
-<script>
-    addSlides("slideShow","../../../shared/images/TerminalRun/Slide","JPG",1,4)
-</script>
+:::{dropdown} Demo Slides
+
+<div class="slide-row">
+  <div><img src="../../../shared/images/TerminalRun/Slide1.JPG" alt="Slide 1"></div>
+  <div><img src="../../../shared/images/TerminalRun/Slide2.JPG" alt="Slide 2"></div>
+  <div><img src="../../../shared/images/TerminalRun/Slide3.JPG" alt="Slide 3"></div>
+  <div><img src="../../../shared/images/TerminalRun/Slide4.JPG" alt="Slide 4"></div>
+</div>
+
+:::
 
 
 
