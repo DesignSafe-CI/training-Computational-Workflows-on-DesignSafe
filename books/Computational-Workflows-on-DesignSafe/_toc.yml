@@ -140,11 +140,8 @@ parts:
         title: Guide
         
 
-
   - caption: Training Modules
     chapters:
-    - file: Jupyter_Notebooks_Misc/PyLauncherTaskList.ipynb
-    - file: Jupyter_Notebooks_Misc/HDF5_Quick_Explorer.ipynb
     - file: Docs_MD_Tapis/tapis_train_setup.md
       sections:
       - file: Jupyter_Notebooks_Tapis/tapisConnect_connectToTapis.ipynb

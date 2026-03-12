@@ -66,7 +66,10 @@ parts:
     - file: Docs_MD_PythonUtils/Tapis/submit_tapis_job.md
     - file: Docs_MD_PythonUtils/Tapis/validate_app_folder.md
 
-
+  - caption: Practical Notebooks
+    chapters:
+    - file: Jupyter_Notebooks_Misc/PyLauncherTaskList.ipynb
+    - file: Jupyter_Notebooks_Misc/HDF5_Quick_Explorer.ipynb
     
   - caption: TOC 
     chapters:
