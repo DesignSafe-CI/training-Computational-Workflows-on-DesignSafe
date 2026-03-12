@@ -109,3 +109,12 @@ with h5py.File("myfile.hdf5", "r") as h5:
 
 
 
+#### Files
+You can find these files in Community Data.
+
+```{dropdown} get_now_unix.py
+:icon: file-code
+```{literalinclude} ../../../../shared/OpsUtils/OpsUtils/Misc/h5_tree.py
+:language: none
+```
+

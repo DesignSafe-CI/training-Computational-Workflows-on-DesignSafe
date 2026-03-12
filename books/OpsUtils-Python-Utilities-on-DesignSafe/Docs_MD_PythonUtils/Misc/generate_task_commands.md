@@ -190,3 +190,14 @@ Use this pattern when you need to:
 * minimize archiving overhead in HPC and Tapis workflows.
 
 
+---
+
+#### Files
+
+You can find these files in **Community Data**.
+
+````{dropdown} flatten_dict.py
+:icon: file-code
+```{literalinclude} ../../../../shared/OpsUtils/OpsUtils/Misc/generate_task_commands.py
+:language: none
+````
