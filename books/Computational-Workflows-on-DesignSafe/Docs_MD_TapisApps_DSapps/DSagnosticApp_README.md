@@ -63,21 +63,37 @@ The **minimum mental model** for the app is:
 
 **[UseMPI?]  BINARYNAME  INPUTSCRIPT  ARGUMENTS**
 
-<details><summary><b>Detailed Execution Mode</b></summary>
+<details>
+  <summary><b>Detailed Execution Mode</b></summary>
+  
 1. Tapis stages your **Input Directory** to the job working directory.
+   
 2. SLURM starts the batch job on Stampede3.
+   
 3. *tapisjob_app.sh* runs on the first allocated node and:
+   
    - sets up summary and full environment logs
+     
    - *cd*s into the Input Directory
+     
    - prepares inputs (optional copy-in, optional unzip)
+     
    - loads modules (optional file + optional list)
+     
    - normalizes Python (*python* → *python3*)
+     
    - installs Python packages (optional file + optional list)
+     
    - optionally injects TACC-compiled OpenSeesPy (*opensees.so*)
+     
    - optionally runs pre/post hooks
+     
    - chooses MPI launcher (*ibrun*) or direct run
+     
    - runs your executable + script + args
+     
    - optionally zips output and/or moves results inside the exec system
+     
    - records timers and exits with clear error handling
 
     
