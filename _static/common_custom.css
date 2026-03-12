@@ -296,3 +296,26 @@ And add this to your custom CSS:
   font-size: 0.92rem;
   font-weight: 600;
 }
+
+
+
+
+.slide-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding: 8px 0;
+}
+
+.slide-row > * {
+  flex: 0 0 24%;
+  min-width: 250px;
+  scroll-snap-align: start;
+}
+
+.slide-row img {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
