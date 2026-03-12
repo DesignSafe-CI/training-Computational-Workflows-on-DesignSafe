@@ -112,13 +112,13 @@ parts:
           
   - caption: Document Series
     chapters:
-    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+    - url: https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/Computational-Workflows-on-DesignSafe/README.html
       title: Computational Workflows
-    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+    - url: https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/Computational-Resources-on-DesignSafe/README.html
       title: Compute Resources
-    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+    - url: https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/OpenSees-on-DesignSafe/README.html
       title: OpenSees on DesignSafe
-    - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
+    - url: https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/OpsUtils-Python-Utilities-on-DesignSafe/README.html
       title: Python Utilities
 
   - caption: DesignSafe
