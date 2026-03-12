@@ -24,7 +24,7 @@ Each document approaches the platform from a different angle — from conceptual
 Computational Workflows on DesignSafe
 </a>
 ^^^
-```{dropdown} Platform Architecture & Workflow Concepts
+```{dropdown} Platform Architecture & Workflow
 This document introduces the *core workflow architecture of DesignSafe*, explaining how *interface environments* (web portal, JupyterHub, APIs), *middleware services*, *execution environments* (HPC systems and compute nodes), and *file storage systems* interact to support scalable and reliable computational research.
 ```
 :::
@@ -33,7 +33,7 @@ This document introduces the *core workflow architecture of DesignSafe*, explain
 :class-card: homepage-card
 :class-header: homepage-card-header text-center
 <a href="./Computational-Resources-on-DesignSafe" target="_blank" rel="noopener">
-Computational Resources on DesignSafe
+Compute Resources on DesignSafe
 </a>
 ^^^
 ```{dropdown} Where and How Computation Runs
@@ -60,7 +60,7 @@ This document uses *OpenSees* as a concrete example of a *scalable scientific wo
 OpsUtils Python Utilities
 </a>
 ^^^
-```{dropdown} Reusable Python Tools for Workflows
+```{dropdown} Reusable Python Tools
 A custom Python utility library designed to support common workflow tasks on DesignSafe, including *job submission and monitoring, file and path management, data inspection, and automation*. These utilities encapsulate best practices and reduce boilerplate when building repeatable computational workflows.
 ```
 :::
