@@ -19,7 +19,7 @@ parts:
       title: Computational Workflows
     
     - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
-      title: Computational Resources
+      title: Compute Resources
 
     - url: https://designsafe-ci.github.io/training-OpenSees-on-DesignSafe/README.html
       title: OpenSees on DesignSafe
@@ -32,3 +32,4 @@ parts:
 
     - url: https://designsafe-ci.org/
       title: DesignSafe Main Page
+
