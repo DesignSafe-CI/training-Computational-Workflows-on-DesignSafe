@@ -20,48 +20,48 @@ Each document approaches the platform from a different angle — from conceptual
 :::{grid-item-card}
 :class-card: homepage-card
 :class-header: homepage-card-header text-center
-<a href="./Computational-Workflows-on-DesignSafe" target="_blank" rel="noopener">
+<a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/Computational-Workflows-on-DesignSafe/README.html" target="_blank" rel="noopener">
 Computational Workflows on DesignSafe
 </a>
 ^^^
 ```{dropdown} Platform Architecture & Workflow
-This document introduces the *core workflow architecture of DesignSafe*, explaining how *interface environments* (web portal, JupyterHub, APIs), *middleware services*, *execution environments* (HPC systems and compute nodes), and *file storage systems* interact to support scalable and reliable computational research. <a href="./Computational-Workflows-on-DesignSafe" target="_blank" rel="noopener">..go..</a>
+This document introduces the *core workflow architecture of DesignSafe*, explaining how *interface environments* (web portal, JupyterHub, APIs), *middleware services*, *execution environments* (HPC systems and compute nodes), and *file storage systems* interact to support scalable and reliable computational research. <a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/Computational-Workflows-on-DesignSafe/README.html" target="_blank" rel="noopener">..go..</a>
 ```
 :::
 
 :::{grid-item-card}
 :class-card: homepage-card
 :class-header: homepage-card-header text-center
-<a href="./Computational-Resources-on-DesignSafe" target="_blank" rel="noopener">
+<a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/Computational-Resources-on-DesignSafe/README.html" target="_blank" rel="noopener">
 Compute Resources on DesignSafe
 </a>
 ^^^
 ```{dropdown} Where and How Computation Runs
-This document focuses on the *compute environments available on DesignSafe*, clarifying where analyses actually execute, how resources are allocated, and how users move between interactive and batch workflows. It emphasizes practical distinctions between login, execution, and storage systems, and how those distinctions affect performance and usability. <a href="./Computational-Resources-on-DesignSafe" target="_blank" rel="noopener">..go..</a>
+This document focuses on the *compute environments available on DesignSafe*, clarifying where analyses actually execute, how resources are allocated, and how users move between interactive and batch workflows. It emphasizes practical distinctions between login, execution, and storage systems, and how those distinctions affect performance and usability. <a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/Computational-Resources-on-DesignSafe/README.html" target="_blank" rel="noopener">..go..</a>
 ```
 :::
 
 :::{grid-item-card}
 :class-card: homepage-card
 :class-header: homepage-card-header text-center
-<a href="./OpenSees-on-DesignSafe" target="_blank" rel="noopener">
+<a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/OpenSees-on-DesignSafe/README.html" target="_blank" rel="noopener">
 OpenSees-on-DesignSafe Training
 </a>
 ^^^
 ```{dropdown} OpenSees as a Workflow Case Study
-This document uses *OpenSees* as a concrete example of a *scalable scientific workflow* on DesignSafe — covering scripting, parameter studies, parallel execution, job submission, and results management. While OpenSees is the focus, the workflow patterns apply broadly to many computational applications. <a href="./OpenSees-on-DesignSafe" target="_blank" rel="noopener">..go..</a>
+This document uses *OpenSees* as a concrete example of a *scalable scientific workflow* on DesignSafe — covering scripting, parameter studies, parallel execution, job submission, and results management. While OpenSees is the focus, the workflow patterns apply broadly to many computational applications. <a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/OpenSees-on-DesignSafe/README.html" target="_blank" rel="noopener">..go..</a>
 ```
 :::
 
 :::{grid-item-card}
 :class-card: homepage-card
 :class-header: homepage-card-header text-center
-<a href="./OpsUtils-Python-Utilities-on-DesignSafe" target="_blank" rel="noopener">
+<a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/OpsUtils-Python-Utilities-on-DesignSafe/README.html" target="_blank" rel="noopener">
 OpsUtils Python Utilities
 </a>
 ^^^
 ```{dropdown} Reusable Python Tools
-A custom Python utility library designed to support common workflow tasks on DesignSafe, including *job submission and monitoring, file and path management, data inspection, and automation*. These utilities encapsulate best practices and reduce boilerplate when building repeatable computational workflows. <a href="./OpsUtils-Python-Utilities-on-DesignSafe" target="_blank" rel="noopener">..go..</a>
+A custom Python utility library designed to support common workflow tasks on DesignSafe, including *job submission and monitoring, file and path management, data inspection, and automation*. These utilities encapsulate best practices and reduce boilerplate when building repeatable computational workflows. <a href="https://designsafe-ci.github.io/training-Computational-Workflows-on-DesignSafe/OpsUtils-Python-Utilities-on-DesignSafe/README.html" target="_blank" rel="noopener">..go..</a>
 ```
 :::
 
